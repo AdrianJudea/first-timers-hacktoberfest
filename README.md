@@ -539,3 +539,8 @@ Name: James Longs
 Bio: Student
 Place: Canada
 GitHub: https://github.com/jameslongs37
+
+Name: Adrian Judea
+Bio: Learner
+Place: France
+GitHub: https://github.com/AdrianJudea
